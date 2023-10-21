@@ -1,0 +1,10 @@
+check cuda
+
+pip install ultrlytics
+
+
+classify
+detect
+segment
+
+data - industry equipement dataset
